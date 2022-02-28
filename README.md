@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @eschalotto
-- 🌱 I’m currently learning web dev just completed my front end classes
+- 🌱 I’m currently learning deep learning and machine learning
 - 📫 How to reach me ... well if you wanna reach me then you text me here on github
 
 
